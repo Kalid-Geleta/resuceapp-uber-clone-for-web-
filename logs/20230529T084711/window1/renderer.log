@@ -1,0 +1,4 @@
+2023-05-29 08:47:12.919 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/directory-to-open","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
+2023-05-29 08:47:13.599 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-05-29 08:47:14.488 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2023-05-29 08:47:19.333 [info] [perf] Render performance baseline is 33ms

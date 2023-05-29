@@ -1,0 +1,4 @@
+2023-05-29 08:51:41.226 [info] [perf] Render performance baseline is 32ms
+2023-05-29 08:53:29.748 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.backups
+2023-05-29 08:53:35.157 [warning] [backup tracker] suspended, ignoring dirty change event untitled:/directory-to-open 
+2023-05-29 08:53:35.159 [warning] [backup tracker] suspended, ignoring unregister event untitled:/directory-to-open 

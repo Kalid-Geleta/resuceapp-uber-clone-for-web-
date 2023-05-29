@@ -1,0 +1,6 @@
+2023-05-29 08:47:11.351 [info] update#setState idle
+2023-05-29 08:47:13.330 [info] Starting extension host with pid 11690 (fork() took 6 ms).
+2023-05-29 08:47:41.353 [info] update#setState checking for updates
+2023-05-29 08:47:41.361 [info] update#setState available for download
+2023-05-29 08:49:01.449 [info] Waiting for extension host with pid 11690 to exit.
+2023-05-29 08:49:01.468 [info] Extension host with pid 11690 exited with code: 0, signal: null.
